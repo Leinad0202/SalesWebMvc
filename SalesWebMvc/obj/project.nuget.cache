@@ -1,8 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "D57+68L6QL4=",
   "success": true,
   "projectFilePath": "/home/daniel/RiderProjects/SalesWebMvc/SalesWebMvc/SalesWebMvc.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "CHomaU0liRw=",
+  "success": true,
+  "projectFilePath": "/home/daniel/RiderProjects/SalesWebMvc/SalesWebMvc/SalesWebMvc.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+>>>>>>> 7a21f5c80ae7aa50cf3b48931a2566c21c69f180
   "logs": []
 }

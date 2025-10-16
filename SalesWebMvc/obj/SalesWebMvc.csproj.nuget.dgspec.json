@@ -43,6 +43,15 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+>>>>>>> 7a21f5c80ae7aa50cf3b48931a2566c21c69f180
           "imports": [
             "net461",
             "net462",
